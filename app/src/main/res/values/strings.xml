@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiniApp</string>
+    <string name="roll">Roll</string>
+    <string name="email">Email</string>
+    <string name="subject">Subject</string>
+    <string name="content">Content</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="succesful">Email Sent Successfully</string>
+    <string name="back">Go Back</string>
+</resources>
